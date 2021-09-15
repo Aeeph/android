@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Android Kotlin</string>
+    <string name="titleDashboard">DASHBOARD</string>
+    <string name="nameApp">Child Time</string>
+    <string name="versi">Versi 1.1</string>
+    <string name="text">Your Happy, Me Happy</string>
+
+    <string name="btnDashboard">DASHBOARD</string>
+    <string name="btnProfil">PROFILE</string>
+    <string name="btnCheck">CHECKBOX</string>
+    <string name="btnRadio">RADIO BUTTON</string>
+</resources>
